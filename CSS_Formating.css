@@ -1,0 +1,31 @@
+body{ background:Navy;font-family:"Comic Sans MS";}
+h1{text-align:center; font-weight:bold; color:White;}
+h2{text-align:center; font-weight:bold; color: #2633ff ;}
+h3{text-align:left; font-weight:bold; color:#89d5ff;}
+a{text-align:right; font-weight:bold; color: #aaf9ff ; }
+p{font-size: 18px; color: #baff9c; text-align: Left}
+.paragraphs{
+	font-size: 18px; 
+	font-weight: bold;
+	color:#b0e3ff;
+	}
+.bullets{
+	font-size: 14px; 
+	font-weight: bold;
+	color:#47ffec;
+}
+.wrap{
+	width:70%; text-align:left; margin:0 auto;
+}
+.resumediv{
+	text-align:left; background-color: #007bbf ; padding:10px; border:5px solid black;
+}
+.indexdiv{
+	text-align:left; background-color:#009cd8; padding:10px; border:5px solid black;
+}
+.picturediv1{
+background-color: #009a69; padding:10px; border:10px double blue;
+}
+.picturediv2{
+background-color: #41fdc1; padding:10px; border:5px solid blue;
+} 
