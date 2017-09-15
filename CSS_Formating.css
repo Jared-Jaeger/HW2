@@ -1,27 +1,28 @@
-body{ background:Navy;font-family:"Comic Sans MS";}
-h1{text-align:center; font-weight:bold; color:White;}
-h2{text-align:center; font-weight:bold; color: #2633ff ;}
-h3{text-align:left; font-weight:bold; color:#89d5ff;}
+body{ background:White;font-family:"Comic Sans MS";}
+h1{text-align:center; font-weight:bold; color: Navy;}
+h2{text-align:center; font-weight:bold; color: Grey;}
+h3{text-align:left; font-weight:bold; color:Black;}
 a{text-align:right; font-weight:bold; color: #aaf9ff ; }
-p{font-size: 18px; color: #baff9c; text-align: Left}
+p{font-size: 18px; color: Black; text-align: Left}
 .paragraphs{
 	font-size: 18px; 
 	font-weight: bold;
-	color:#b0e3ff;
+	color:black;
 	}
 .bullets{
 	font-size: 14px; 
 	font-weight: bold;
-	color:#47ffec;
+	color:blue;
+	font-weight:underline;
 }
 .wrap{
 	width:70%; text-align:left; margin:0 auto;
 }
 .resumediv{
-	text-align:left; background-color: #007bbf ; padding:10px; border:5px solid black;
+	text-align:left; background-color: white ; padding:10px; border:5px solid black;
 }
 .indexdiv{
-	text-align:left; background-color:#009cd8; padding:10px; border:5px solid black;
+	text-align:left; background-color: black; padding:10px; border:5px solid blue;
 }
 .picturediv1{
 background-color: #009a69; padding:10px; border:10px double blue;
@@ -29,3 +30,6 @@ background-color: #009a69; padding:10px; border:10px double blue;
 .picturediv2{
 background-color: #41fdc1; padding:10px; border:5px solid blue;
 } 
+.centerAlign{
+text-align: center;
+}
